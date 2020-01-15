@@ -1,0 +1,17 @@
+C:\Users\Lucyca Muruket\documents\visual studio 2010\Projects\Labs\Account\Account\bin\Debug\Account.exe
+C:\Users\Lucyca Muruket\documents\visual studio 2010\Projects\Labs\Account\Account\bin\Debug\Account.pdb
+C:\Users\Lucyca Muruket\documents\visual studio 2010\Projects\Labs\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Lucyca Muruket\documents\visual studio 2010\Projects\Labs\Account\Account\obj\x86\Debug\Account.pdb
+C:\Users\Lucyca Muruket\documents\visual studio 2010\Projects\Labs\Account\Account\obj\x86\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\Lucyca Muruket\Desktop\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Lucyca Muruket\Desktop\Account\Account\obj\x86\Debug\Account.pdb
+C:\Users\Lucyca Muruket\documents\Lab 2\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Lucyca Muruket\documents\Lab 2\Account\Account\obj\x86\Debug\Account.pdb
+C:\Users\Lucyca Muruket\Desktop\Lucyca Muruket (Lab 2- Accounts)\Lab 2\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Lucyca Muruket\Desktop\Lucyca Muruket (Lab 2- Accounts)\Lab 2\Account\Account\obj\x86\Debug\Account.pdb
+C:\Users\Kami\Desktop\Semester 2 2016\MC212\Labs\Lucyca Muruket (Lab 2- Accounts)\Lab 2\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Kami\Desktop\Semester 2 2016\MC212\Labs\Lucyca Muruket (Lab 2- Accounts)\Lab 2\Account\Account\obj\x86\Debug\Account.pdb
+C:\Users\Kami\Desktop\Account\Account\bin\Debug\Account.exe
+C:\Users\Kami\Desktop\Account\Account\bin\Debug\Account.pdb
+C:\Users\Kami\Desktop\Account\Account\obj\x86\Debug\Account.exe
+C:\Users\Kami\Desktop\Account\Account\obj\x86\Debug\Account.pdb
